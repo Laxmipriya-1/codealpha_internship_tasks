@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Users/HP/Desktop"
+		},
+		{
+			"path": "../Bootstrap"
+		},
+		{
+			"path": "../HTML_bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "calculator_task-1",
+		"liveServer.settings.port": 5501
+	}
+}
